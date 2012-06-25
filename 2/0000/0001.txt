@@ -1,12 +1,12 @@
 ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
+Recovery
+State.
+Recovery
 ＨＰ／ＰＰ
-かいふく
-せんとうよう
-ボール
-さいごにつかったどうぐ
+Recovery
+As top
+Ball
+Tool was used to last moment
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
@@ -19,35 +19,35 @@
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-つぎへ
+Next
 ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ボール
-せんとうよう
+Recovery
+State. 
+Recovery 
+Ball 
+As top
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-つかう
+Spending
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-つかっても　こうかが　ないよ
-しろいきりに　つつまれた！\xfffe
-\xf000Ă\x0001\x0000は\xfffeはりきっている
-\xf000Ă\x0001\x0000の\xfffeこうげきが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくこうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeすばやさが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくぼうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeぼうぎょが　あがった！
-\xf000Ă\x0001\x0000の\xfffeめいちゅうりつが　あがった！
-\xf000ĉ\x0001\x0000を\xfffeつかった！
-だめだ！　２ひきいて\xfffeねらいが　さだまらない……！
-ボックスが　いっぱいです！
-\xf000ć\x0001\x0001の　こうかで\xfffe\xf000Ă\x0001\x0000には　つかえません！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-エネルギーが　たりません
-アララギの　ことば……\xfffeこういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-しゅうちゅう　しないと\xfffeボールは　じょうずに　なげられない！
-ゲーチスの　つくった　そうちのせいで\xfffeボールは　つかえない！！
+Or there is no way I also use
+Wrapped in white mist！\xfffe
+\xf000Ă\x0001\x0000は\xfffeAre excited
+\xf000Ă\x0001\x0000の\xfffeAttack is raised！
+\xf000Ă\x0001\x0000の\xfffeRaised anti-solving！
+\xf000Ă\x0001\x0000の\xfffeQuickness is raised！
+\xf000Ă\x0001\x0000の\xfffeTokubo is raised！
+\xf000Ă\x0001\x0000の\xfffeDefense is raised！
+\xf000Ă\x0001\x0000の\xfffeAccuracy is raised！
+\xf000ĉ\x0001\x0000を\xfffeWas using！
+Useless！　Led by two\xfffeThe aim is　Not determined……！
+Box is full！
+\xf000ć\x0001\x0001Of　In some way\xfffe\xf000Ă\x0001\x0000Can not be used to！
+Useless！　If we can not see the Pokemon\xfffeAim can not be determined……！
+Useless！　If we can not see the Pokemon\xfffeAim can not be determined……！
+You do not have enough energy
+Araragi words……\xfffeTo these things is\xf000Stable and uniform sol\x0000\xfffeThere 's going on in the use
+If you do not concentrate\xfffeNot throw the ball well！
+Because of the total blood made of Gechisu\xfffeThe ball can not be used！！
